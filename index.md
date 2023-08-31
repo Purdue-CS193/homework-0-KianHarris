@@ -1,6 +1,6 @@
 # Kian Harris's first CS193 Homework 
 - All of the TA's are super duper cool and supportive
-- the information provided sounds very usefull
+- the information provided sounds very useful
 - hands on learning experience
 - friendly environment 
 
