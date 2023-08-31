@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Kian Harris's first CS193 Homework 
+- All of the TA's are super duper cool and supportive
+- the information provided sounds very usefull
+- hands on learning experience
+- friendly environment 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,11 +15,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Kian's first CS193 Homework
+# Header 1
+## Header 2
+### Header 3 
 
-- This class sounds interesting 
-- I like that students are teaching the class
-- Hopefully everyone enjoys this class
+
+- Bulleted 
+- Lists
 
 1. Numbered
 2. List
